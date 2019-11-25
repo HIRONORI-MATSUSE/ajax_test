@@ -1,0 +1,7 @@
+{
+  "name": "ajax_test",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
